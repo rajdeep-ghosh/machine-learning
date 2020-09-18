@@ -1,2 +1,2 @@
-# Machine Learning Specialization
-Coursera Machine Learning Specialization offered by University of Washington
+# Machine Learning
+Machine Learning foundation course offered by University of Washington in Coursera
